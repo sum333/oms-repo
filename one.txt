@@ -1,2 +1,2 @@
 Hello world
-New Line
+New Line Modified Directly through GIT
