@@ -1,3 +1,4 @@
 Hello world
 New Line Modified Locally
 New Line Modified Directly through GIT
+Modified in feature branch
